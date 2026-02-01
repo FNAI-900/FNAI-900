@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm Fatimah 🌸<br><br>-🎓 Computer Science Undergraduate Student  <br>-💻 Aspiring Software Engineer | Web Development Enthusiast<br><br>✨ About Me<br>- 🎯 Computer Science student passionate about building real-world applications.<br>- 🚀 Currently improving my skills through university projects and cooperative training.<br> 💻 Programming Interests <br>
+<p align="left">Hi 👋 I'm Fatimah 🌸<br><br>-🎓 Computer Science Undergraduate Student  <br>-💻 Aspiring Software Engineer | Web Development Enthusiast<br><br>✨ About Me<br>- 🎯 Computer Science student passionate about building real-world applications.<br>- 🚀 Currently improving my skills through university projects and cooperative training.<br><br> 💻 Programming Interests <br>
 - 🌐 Web Development (HTML, CSS, JavaScript, PHP)<br>
 - 🧠 Software Engineering<br>
 - 🧩 Problem Solving & Algorithms<br>
