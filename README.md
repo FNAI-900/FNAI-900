@@ -8,19 +8,21 @@
 
 <p align="left">Hi 👋 I'm Fatimah 🌸<br><br>-🎓 Computer Science Undergraduate Student  <br>-💻 Aspiring Software Engineer | Web Development Enthusiast<br><br>✨ About Me<br>- 🎯 Computer Science student passionate about building real-world applications.<br>- 🚀 Currently improving my skills through university projects and cooperative training.<br>- 🎨 I enjoy creating clean, user-friendly, and functional web interfaces.</p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FNAI-900&show_icons=true&theme=cobalt" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNAI-900&layout=compact&theme=cobalt" height="170"/>
-</p>
-
 ### 🏆 Achievements
-<p align="left">
-  <img src="https://img.shields.io/badge/Student-Computer%20Science-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Always%20Improving-success?style=for-the-badge"/>
-</p>
+![CS Student](https://img.shields.io/badge/Student-Computer%20Science-blue)
+![Web Dev](https://img.shields.io/badge/Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-orange)
+![Learning](https://img.shields.io/badge/Learning-Always%20Improving-success)
 
+### 📂 Projects
+
+- 🧠 **SFMS – Mind Games Club Website** *(Private)*  
+  A web-based project focused on developing a mind games platform that displays games and membership cards in a simple and user-friendly way, with an emphasis on user experience and future scalability.
+
+- ⚖️ **BMI Calculator** *(Java – Public)*  
+  A Java-based BMI Calculator application that calculates Body Mass Index and categorizes results based on standard health ranges.
+
+- 🧮 **Java Calculator** *(Public)*  
+  A simple calculator application written in Java to practice basic programming concepts such as conditions, input handling, and arithmetic operations.
 
 ###
 
@@ -32,7 +34,11 @@
 
 ###
 
-<img align="right" height="206" src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif"  />
+<h3 align="left">Languages and Tools:</h3>
+
+###
+
+<img align="right" height="229" src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif"  />
 
 ###
 
@@ -62,15 +68,17 @@
 
 ###
 
+<h3 align="left">🔗 Connect With Me</h3>
+
+###
+
 <div align="left">
   <a href="http://linkedin.com/in/fatima-numan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-
-###
-
-<p align="center"></p>
 
 ###
 
