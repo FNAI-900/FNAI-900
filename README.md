@@ -8,11 +8,13 @@
 
 <p align="left">Hi 👋 I'm Fatimah 🌸<br><br>-🎓 Computer Science Undergraduate Student  <br>-💻 Aspiring Software Engineer | Web Development Enthusiast<br><br>✨ About Me<br>- 🎯 Computer Science student passionate about building real-world applications.<br>- 🚀 Currently improving my skills through university projects and cooperative training.<br>- 🎨 I enjoy creating clean, user-friendly, and functional web interfaces.</p>
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FNAI-900&show_icons=true&theme=cobalt&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNAI-900&layout=compact&theme=cobalt&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/Student-Computer%20Science-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Always%20Improving-success?style=for-the-badge"/>
 </p>
+
 
 ###
 
